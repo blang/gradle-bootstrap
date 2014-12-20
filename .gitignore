@@ -1,1 +1,8 @@
-.gradle/
+/.gradle/
+/build/
+/bin/
+
+# Ignore eclipse files, generate them using ./gradlew eclipse
+/.project
+/.settings/
+/.classpath
